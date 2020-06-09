@@ -1,0 +1,20 @@
+.dice {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 5px;
+
+}
+body {
+    display:flex;
+    flex-wrap: wrap;
+}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
